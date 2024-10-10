@@ -1,3 +1,5 @@
+// problem link: https://leetcode.com/problems/maximum-width-ramp/?envType=daily-question&envId=2024-10-10
+
 class OptimalSolution {
     public int maxWidthRamp(int[] nums) {
         int n = nums.length;
