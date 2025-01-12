@@ -1,5 +1,6 @@
 // Time : 0(N^2)
 // Space : 0(1) (in hashmap it was 0(N) hence OPTIMAL
+// check for the solution later also in which what happens if we cant sort the array
 
 class OptimalTwoPointerSolution {
     public List<List<Integer>> threeSum(int[] nums) {
